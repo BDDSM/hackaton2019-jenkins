@@ -1,10 +1,10 @@
 {
 	"globals": {
 	  "storage-user": "Администратор",
-	  "storage-pwd": "",
+	  "storage-pwd": "1",
 	  "git-path": "git",
 	  "v8version": 8.3,
-	  "domain-email": "gitlab.com",
+	  "domain-email": "gmail.com",
 	  "lic-try-count": 5,
 	  "plugins": {
 			"enable": [
@@ -26,11 +26,11 @@
 	},
 	"repositories": [
 	  {
-			"name": "ТестовыйРепозиторий2",
-			"path": "c://temp",
+			"name": "УТ",
+			"path": "c://repo//demo",
 			"dir": "./src/cf",
 			"temp-dir": "",
-			"v8version": "8.3.13",
+			"v8version": "8.3.12",
 			"plugins-config": {
 				"URL": "git@github.com:ZhdanovR/cicdForOne.git"
 			}
