@@ -32,7 +32,7 @@
 			"temp-dir": "",
 			"v8version": "8.3.12",
 			"plugins-config": {
-				"URL": "git@github.com:ZhdanovR/cicdForOne.git"
+				"URL": "git@github.com:jugatsu/hackaton2019-jenkins.git"
 			}
 		}
 	]
